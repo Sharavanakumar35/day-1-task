@@ -3,7 +3,7 @@
 
 ### Before we get into the differences, let's take a look at what HTTP really means...
 
-##HTTP
+## HTTP
 HTTP stands for HyperText Transfer Protocol. It is the foundation of any data exchange on the Web, and it is a protocol used for transmitting hypertext (text that is linked together) over the Internet. In simpler terms, it's the set of rules that allows your web browser to request a particular web page from a server and then display it on your screen.
 
 *Think of HTTP like a conversation between your web browser (like Chrome or Firefox) and a server (a powerful computer somewhere that stores a website). This conversation happens every time you open a webpage.*
