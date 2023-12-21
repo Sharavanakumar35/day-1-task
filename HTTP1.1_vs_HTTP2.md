@@ -1,4 +1,3 @@
-###### Task Day: 1
 # HTTP 1.1 :fist_right::fist_left: HTTP 2 (Layman Explaination)
 
 ### Before we get into the differences, let's take a look at what HTTP really means...
