@@ -1,2 +1,2 @@
-# day-1-task
+# Task Day: 1
 GUVI Day 1 task 
