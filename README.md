@@ -44,3 +44,16 @@ HTTP/2 introduces a feature called server push. Imagine the server not only send
 
 ### Essence
 HTTP/2 is an improvement that allows your browser and the server to communicate more efficiently. It's like upgrading from a single-lane road to a multi-lane highway, making your web experience faster and smoother, especially for modern, complex websites.
+
+
+## Differences Overview
+
+| Feature                    | HTTP/1.1                               | HTTP/2                                         |
+|----------------------------|----------------------------------------|------------------------------------------------|
+| Multiplexing               | Limited to one request per connection   | Enables multiple concurrent requests (streams) |
+| Header Compression         | Not supported                          | Utilizes Huffman coding for header compression   |
+| Protocol Format            | Text-based                            | Binary format                                  |
+| Connection Management      | Multiple connections for parallelism   | Single, multiplexed connection for efficiency  |
+| Server Push                | Not supported                          | Allows proactive pushing of resources          |
+| Stream Prioritization      | Not prioritized                       | Supports prioritization for efficient loading |
+| Persistent Connections     | Requires multiple connections         | Promotes connection reuse for reduced overhead |
